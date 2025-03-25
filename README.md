@@ -19,7 +19,7 @@ I am a future computer engineer passionate about software development, with the 
 
 ## Tech Stack
 
-###Languages
+### Languages
 
 <div style="display: flex; padding: 8px 0px;">
 <img height="32" style=" padding: 0 2px;" src="https://img.shields.io/badge/html5-ff5733?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
