@@ -13,21 +13,9 @@ I am a future computer engineer passionate about software development, with the 
 ---
 
 ## Social media
-
-<div style="display: flex; ">
-<p>
-  <a href="emanuelarevalomartinez@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-</p>
-<p>
-<a href="https://www.linkedin.com/in/emanuelarevalomartinez" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-</p>
-<p>
- <a href="https://www.facebook.com/emanueldavidarevalomartinez" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-</p>
-</div>
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:emanuelarevalomartinez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelarevalomartinez)
+[![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white)](https://www.facebook.com/emanueldavidarevalomartinez)
 
 ## Tech Stack
 
