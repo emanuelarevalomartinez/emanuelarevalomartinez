@@ -3,7 +3,7 @@
 💼 University Student  
 🌎 Current Location: **Cuba**  
 
-I am a future computer engineer passionate about software development, with the goal of continually improving as a professional. I aim to apply best practices in software development, such as design patterns, clean architecture, and hexagonal architecture, as well as agile methodologies like Scrum and XP. I thrive in dynamic environments where team collaboration fosters feedback to enhance and optimize code, as well as identify errors early.
+I am a computer engineer passionate about software development, with the goal of continually improving as a professional. I aim to apply best practices in software development, such as design patterns, clean architecture, and hexagonal architecture, as well as agile methodologies like Scrum and XP. I thrive in dynamic environments where team collaboration fosters feedback to enhance and optimize code, as well as identify errors early.
 
 ## 🚀 About Me  
 - 🎓 Universitary Student at [University of Informatics Sciences](https://www.bing.com/ck/a?!&&p=cd3729316a665dc8d82bc89b7ab2390e47fc17f42939cd921dfa9aa5773d0d8eJmltdHM9MTc0MjA4MzIwMA&ptn=3&ver=2&hsh=4&fclid=0bfc6053-8d95-672c-2c7f-74a38c056683&psq=uci+cuba&u=a1aHR0cHM6Ly93d3cudWNpLmN1Lw&ntb=1)
