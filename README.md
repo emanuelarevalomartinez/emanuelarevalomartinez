@@ -19,15 +19,23 @@ Although I am capable of building complete solutions end to end, my main motivat
 ---
 
 ## Professional Focus
+
 ✔ Backend system design and architecture
+
 ✔ Clean, testable, and maintainable code
+
 ✔ Scalable APIs and distributed systems
+
 ✔ Applying architectural patterns in real-world projects
+
 ✔ Growing from Full Stack Engineer → Backend Specialist → Software Architect
 
 ## Beyond Code
+
 ♟️ Chess player in my free time, strengthening strategic and analytical thinking
+
 📚 Continuous learner in software architecture and engineering best practices
+
 💪 Disciplined lifestyle and constant self-improvement mindset
 
 ## Social media
