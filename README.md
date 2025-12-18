@@ -1,7 +1,7 @@
 # ✌ Hi, I'm Emanuel Arévalo Martínez
 
-### 💼 Software Engineer
-### 🌎 Location: Cuba
+💼 Software Engineer
+📍 Location: Cuba
 
 I am a **graduated Software Engineer** from the **University of Informatics Sciences (UCI)**. I work as a **Full Stack Developer**, with a strong focus and professional interest in **Backend development** and **Software Architecture**.
 
@@ -11,38 +11,19 @@ Although I am capable of building complete solutions end to end, my main motivat
 - 🎓 Software Engineering Graduate from [University of Informatics Sciences](https://www.bing.com/ck/a?!&&p=cd3729316a665dc8d82bc89b7ab2390e47fc17f42939cd921dfa9aa5773d0d8eJmltdHM9MTc0MjA4MzIwMA&ptn=3&ver=2&hsh=4&fclid=0bfc6053-8d95-672c-2c7f-74a38c056683&psq=uci+cuba&u=a1aHR0cHM6Ly93d3cudWNpLmN1Lw&ntb=1)
 - 🧠 Strong knowledge of **SOLID** principles, **Clean Code**, and **Clean Architecture**
 - 💻 **Full Stack Software Engineer** with a strong **Backend-oriented mindset**
-- ☕ Strong backend focus with Spring Boot, building scalable and maintainable services
+- ☕ **Strong backend focus with Spring Boot**, building scalable and maintainable services
 - 🟢 Solid command of the **Node.js ecosystem**, using **TypeScript** in both **Backend and Frontend**
 - 🧠 Deep understanding of **SOLID principles**, **Clean Code**, and **Clean Architecture**
 - 🏗️ Experience applying **Hexagonal Architecture (Ports & Adapters)** and **Domain-Driven Design (DDD)**
 - 🔁 Practical use of **Agile methodologies**, mainly **Scrum** and **Extreme Programming (XP)**
+- ♟️ **Chess enthusiast**, continuous learner, and disciplined mindset.
 ---
 
-## Professional Focus
-
-✔ Backend system design and architecture
-
-✔ Clean, testable, and maintainable code
-
-✔ Scalable APIs and distributed systems
-
-✔ Applying architectural patterns in real-world projects
-
-✔ Growing from Full Stack Engineer → Backend Specialist → Software Architect
-
-## Beyond Code
-
-♟️ Chess player in my free time, strengthening strategic and analytical thinking
-
-📚 Continuous learner in software architecture and engineering best practices
-
-💪 Disciplined lifestyle and constant self-improvement mindset
-
-## Social media
+## 📘 Social media
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:emanuelarevalomartinez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelarevalomartinez)
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -51,8 +32,8 @@ Although I am capable of building complete solutions end to end, my main motivat
   <img height="32" style=" padding: 0 2px;" src="https://img.shields.io/badge/typescript-0175C2?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
   <img height="32" style=" padding: 0 2px;" src="https://img.shields.io/badge/javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"/>
   <img height="32" style=" padding: 0 2px;" src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img height="32" style=" padding: 0 2px;" src="https://img.shields.io/badge/html5-ff5733?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img height="32" style=" padding: 0 2px;" src="https://img.shields.io/badge/css3-0175b0?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img height="32" style=" padding: 0 2px;" src="https://img.shields.io/badge/html5-ff5733?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img height="32" style=" padding: 0 2px;" src="https://img.shields.io/badge/css-0175b0?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
 
 ### Frameworks
