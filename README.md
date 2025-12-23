@@ -83,16 +83,10 @@ Although I am capable of building complete solutions end to end, my main motivat
 ### IDEs
 
 <div style="display: flex; ">
-  <img height="32" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/IntelliJ_IDEA-FE2857?style=for-the-badge&logo=intellijidea&logoColor=white" />
-
+  <img height="32" src="https://img.shields.io/badge/IntelliJ_IDEA-5952B3?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white" />
-
+  <img height="32" src="https://img.shields.io/badge/PyCharm-21A299?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-
 </div>
 
 ### Version Control
