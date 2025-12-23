@@ -86,7 +86,7 @@ Although I am capable of building complete solutions end to end, my main motivat
   <img height="32" src="https://img.shields.io/badge/IntelliJ_IDEA-5952B3?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/PyCharm-21A299?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/Android_Studio-4DCC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </div>
 
 ### Version Control
@@ -100,14 +100,14 @@ Although I am capable of building complete solutions end to end, my main motivat
 ### Backend Development Tools
 
 <div style="display: flex; ">
+  <img height="32" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Bash-44666C?style=for-the-badge&logo=gnubash&logoColor=white" />
 </div>
 
@@ -115,10 +115,10 @@ Although I am capable of building complete solutions end to end, my main motivat
 
 <div style="display: flex; ">
   <img height="32" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
-  <img height="32" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
+  <img height="32" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
 
 ### OS
