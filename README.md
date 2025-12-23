@@ -1,4 +1,4 @@
-# ✌ Hi, I'm Emanuel Arévalo Martínez
+# ✌🏻 Hi, I'm Emanuel Arévalo Martínez
 
 💼 Software Engineer
 
