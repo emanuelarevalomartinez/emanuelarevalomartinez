@@ -97,14 +97,6 @@ Although I am capable of building complete solutions end to end, my main motivat
   <img height="32" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </div>
 
-### OS
-
-<div style="display: flex; ">
-  <img height="32" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img height="32" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</div>
-
-
 ### Backend Development Tools
 
 <div style="display: flex; ">
@@ -116,7 +108,7 @@ Although I am capable of building complete solutions end to end, my main motivat
   <img height="32" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/Bash-44666C?style=for-the-badge&logo=gnubash&logoColor=white" />
 </div>
 
 ### Frontend Development Tools
@@ -127,6 +119,13 @@ Although I am capable of building complete solutions end to end, my main motivat
   <img height="32" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
+</div>
+
+### OS
+
+<div style="display: flex; ">
+  <img height="32" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img height="32" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 
